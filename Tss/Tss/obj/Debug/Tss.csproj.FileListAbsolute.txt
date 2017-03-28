@@ -1,0 +1,6 @@
+C:\Users\lld\documents\visual studio 2017\Projects\Tss\Tss\bin\Debug\Tss.exe.config
+C:\Users\lld\documents\visual studio 2017\Projects\Tss\Tss\bin\Debug\Tss.exe
+C:\Users\lld\documents\visual studio 2017\Projects\Tss\Tss\bin\Debug\Tss.pdb
+C:\Users\lld\documents\visual studio 2017\Projects\Tss\Tss\obj\Debug\Tss.csprojResolveAssemblyReference.cache
+C:\Users\lld\documents\visual studio 2017\Projects\Tss\Tss\obj\Debug\Tss.exe
+C:\Users\lld\documents\visual studio 2017\Projects\Tss\Tss\obj\Debug\Tss.pdb
